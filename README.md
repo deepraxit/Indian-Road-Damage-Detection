@@ -6,7 +6,7 @@ Finds **potholes and road cracks** in road images and dashcam / helmet-cam
 video, using a YOLO11 detector fine-tuned on **7,706 real Indian road images**
 (RDD2022, India subset).
 
-**Live demo: https://vivekvagale.github.io/road-hazard/** : runs in your
+**Live demo: https://tinyurl.com/deepraxit** : runs in your
 browser (ONNX + WebAssembly, 10 MB). Flip through the sample roads, paste a
 photo (Ctrl+V), drag and drop a photo or video, or open it on a phone and point
 the camera at a road. **Save** downloads the marked-up photo with a branded
