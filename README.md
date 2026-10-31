@@ -104,6 +104,3 @@ Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., & Sekimoto, Y. (2022).
 *RDD2022: A multi-national image dataset for automatic road damage detection.*
 figshare, CC BY 4.0. Downloaded by the code, not redistributed here.
 
-## Author
-
-**Vivek Vagale** - [@VivekVagale](https://github.com/VivekVagale)
